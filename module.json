@@ -1,0 +1,16 @@
+{
+  "name": "sr5roller",
+  "title": "SR5 Simple Dice Roller",
+  "description": "A Simple Dice Roller for the SR5 ruleset.",
+  "version": "0.1.0",
+  "minimumCoreVersion": "0.5.5",
+  "author": "Woodshape",
+  "scripts": ["./src/sr5roller.js"],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ]
+}
